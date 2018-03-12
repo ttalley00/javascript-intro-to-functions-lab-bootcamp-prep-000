@@ -10,5 +10,5 @@ function shout(string) {
   
   else if (string.toUpperCase() === string) return string.toLowerCase ("YES INDEED!")
   
-  else if (string === )
+  else if (string === "I love you too, Grandma")
   
