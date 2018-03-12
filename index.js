@@ -8,5 +8,5 @@ function shout(string) {
     
   }
   
-  else if (string.toLowerCase)
+  else if (string.toUowerCase)()
   
